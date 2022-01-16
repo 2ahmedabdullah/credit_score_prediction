@@ -4,6 +4,10 @@ A credit scoring model is a mathematical model used to estimate the probability 
 
 ![0](credit1.png)
 
+<p align="center">
+   <img src="cred.jpg">
+</p>
+
 ## Models used
 
 I have used 2 model for the task.
